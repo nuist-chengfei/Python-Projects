@@ -9,7 +9,7 @@
 
 **Enter the length:** 
 <br>
-provide how long you want the code to be (only numbers)
+provide how long you want the password to be (only numbers)
 
 **Do you want to have numbers? (y/n)** 
 <br>
