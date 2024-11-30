@@ -1,4 +1,4 @@
-# Udemy Sergii Demianchuk PYTHON ElasticSearch Example
+# PYTHON ElasticSearch Example
 
 ## Setup
 
